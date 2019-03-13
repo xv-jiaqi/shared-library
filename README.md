@@ -15,6 +15,8 @@
 
 ## JavaScript
 
+- [EventLoop](https://zhuanlan.zhihu.com/p/54951550)
+
 ## CSS
 
 - [CSS Triggers](https://csstriggers.com/)
@@ -32,6 +34,8 @@
 ## 正则表达式
 
 ## 工具
+
+- [图解git原理与日常实用指南](https://juejin.im/post/5c714d18f265da2d98090503#heading-1)
 
 ## 其他
 
