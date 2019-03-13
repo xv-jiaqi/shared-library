@@ -1,6 +1,8 @@
 # shared-library
 
-> 该 Repo 收藏了一些高质量的文章，欢迎大家分享加入 :tada: :tada: :tada:
+> 该 Repo 收藏了一些高质量的文章，欢迎大家加入 :tada: :tada: :tada:
+
+**选择的文章请尽量保持高质量——普适、深入，具有可沉淀性！**
 
 [TOC]
 
@@ -16,6 +18,16 @@
 ## CSS
 
 - [CSS Triggers](https://csstriggers.com/)
+
+
+
+## Node.js
+
+
+
+## 数据结构和算法
+
+
 
 ## 正则表达式
 
