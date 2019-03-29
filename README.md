@@ -53,3 +53,10 @@
 - [EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [shields.io](https://shields.io/)
 - [Choose an open source license](https://choosealicense.com/)
+
+CSS 代码生成和演示
+
+- [cubic-bezier](http://cubic-bezier.com/#.17,.67,.69,.42)
+- [flexbox 演示](http://www.shouce.ren/api/tool/css3Preview/flexbox-playground.html)
+- [box-shadow等代码生成](http://www.shouce.ren/api/tool/css3Preview/Box-Shadow.html)
+- [背景渐变代码生成](https://www.cssmatic.com/gradient-generator#'\-moz\-linear\-gradient\%28left\%2C\%20rgba\%28248\%2C80\%2C50\%2C1\%29\%200\%25\%2C\%20rgba\%28241\%2C111\%2C92\%2C1\%29\%2050\%25\%2C\%20rgba\%28246\%2C41\%2C12\%2C1\%29\%2051\%25\%2C\%20rgba\%28240\%2C47\%2C23\%2C1\%29\%2071\%25\%2C\%20rgba\%28231\%2C56\%2C39\%2C1\%29\%20100\%25\%29\%3B')
