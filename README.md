@@ -39,9 +39,14 @@
 
 ## 其他
 
-- [carbon](https://carbon.now.sh)
+取色器
+- [adobe color](https://color.adobe.com/zh/create/color-wheel/)
 
-   代码美化工具
+代码图片生成
+- [website: carbon](https://carbon.now.sh)
+- [vscode extension: carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh#overview)
+
+代码美化工具
 - [.gitignore.io](https://www.gitignore.io/)
 - [Unicode code converter](https://r12a.github.io/app-conversion/)
 - [一个Emoji表情提交指南](http://gitmoji.surge.sh/)
