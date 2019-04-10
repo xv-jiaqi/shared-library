@@ -37,6 +37,8 @@
 
 - [图解git原理与日常实用指南](https://juejin.im/post/5c714d18f265da2d98090503#heading-1)
 
+- [正则表达式分析工具](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
+
 ## 其他
 
 取色器
